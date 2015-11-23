@@ -1,0 +1,19 @@
+{
+  "name": "reactmail",
+  "version": "1.0.0",
+  "description": "This demo is a project I created from an online class for ANUGULAR / REACT.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coding-saints/reactmail.git"
+  },
+  "author": "coding-saints",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coding-saints/reactmail/issues"
+  },
+  "homepage": "https://github.com/coding-saints/reactmail#readme"
+}
